@@ -1,0 +1,16 @@
+name: dharmacopeia.github.io
+id: ari:cloud:compass:ec019765-132d-4aad-b235-725aaa77934a:component/9fca860e-a60c-41f9-9e0b-e4fe78536918/0bb33443-fda7-4c49-bee9-7766d9893046
+description: null
+configVersion: 1
+typeId: WEBSITE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/dharmacopeia/dharmacopeia.github.io
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
